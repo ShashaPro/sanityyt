@@ -8,7 +8,6 @@
 # testing
 /coverage
 
-sanityyt/node_modules
 
 # next.js
 /.next/
@@ -16,6 +15,8 @@ sanityyt/node_modules
 
 # production
 /build
+
+.env
 
 # misc
 .DS_Store
